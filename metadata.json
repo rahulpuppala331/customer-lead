@@ -1,0 +1,6 @@
+{
+  "name": "LeadPulse AI - B2B Lead Triage & Intelligence Engine",
+  "description": "AI-powered B2B lead triage command center that extracts intent, scores enterprise opportunities, detects SLA risks, and automates next-action workflows across web, events, referrals, and emails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
